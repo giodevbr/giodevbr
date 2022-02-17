@@ -1,12 +1,11 @@
 ## Olá, eu sou Giovanne, desenvolvedor C#, Angular +9 e outras linguagens!
 
-<div align="center">
-  <a href="https://github.com/GioBatistaDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GioBatistaDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioBatistaDev&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+<a href="https://github.com/GioBatistaDev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GioBatistaDev&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioBatistaDev&layout=compact&langs_count=7"/>
   
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ Tecnologias e Ferramentas
   
 <div style="display: inline_block">
   <code><img align="center" title="C#" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
@@ -22,7 +21,6 @@
   <code><img align="center" title="Redis" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg"></code>
   <code><img align="center" title="VS Code" alt="Vs Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"></code>
   <code><img align="center" title="Visual Studio" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code>
-  <code><img align="center" title="SqlServer" alt="SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></code>
   <code><img align="center" title="Docker" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"></code>
   <code><img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /></code>
 </div>
@@ -34,7 +32,5 @@
   <a href = "mailto:giovannedev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giobatistadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div
-  
-#
   
 ![Snake animation](https://github.com/GioBatistaDev/GioBatistaDev/blob/output/github-contribution-grid-snake.svg)  
