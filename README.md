@@ -1,4 +1,4 @@
-## Olá, eu sou Giovanne, desenvolvedor C#, Angular +9 e outras linguagens!
+## Olá, eu sou Giovanne, desenvolvedor C# e Angular +9
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GioBatistaDev&show_icons=true&include_all_commits=true&count_private=true"/>
