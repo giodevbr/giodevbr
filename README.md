@@ -44,15 +44,6 @@ Tenho atuacao em projetos de automacao, APIs, sistemas web e produtos de gestao,
 
 ---
 
-## Estatisticas GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=giodevbr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giodevbr&layout=compact&langs_count=8&hide_border=true&title_color=0A66C2" />
-</div>
-
----
-
 ## Como eu gero valor
 
 - Traduzo necessidade de negocio em solucao tecnica clara
@@ -61,13 +52,3 @@ Tenho atuacao em projetos de automacao, APIs, sistemas web e produtos de gestao,
 - Mantenho consistencia de codigo para facilitar manutencao e escala
 
 ---
-
-## Vamos conectar
-
-<p>
-  <a href="https://www.linkedin.com/in/ograndegio/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:giovannedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/GioDevBR"><img src="https://img.shields.io/badge/X-@GioDevBR-111111?style=for-the-badge&logo=x&logoColor=white"></a>
-</p>
-
-![Snake animation](https://github.com/giodevbr/giodevbr/blob/output/github-contribution-grid-snake.svg)
