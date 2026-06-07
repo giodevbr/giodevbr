@@ -82,11 +82,3 @@ Atuo hoje como Senior Developer Fullstack no Grupo Imagetech, liderando evolucao
 - Mantenho consistencia de codigo para facilitar manutencao e escala
 
 ---
-
-## Contato
-
-- LinkedIn: https://www.linkedin.com/in/ograndegio/
-- Portfolio: https://www.giodev.com.br
-- Email: giobatista14@gmail.com
-
----
