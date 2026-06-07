@@ -1,36 +1,73 @@
-## Olá, eu sou Giovanne, desenvolvedor C# e Angular +9
+<h1 align="center">Giovanne da Silva Batista</h1>
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giodevbr&show_icons=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giodevbr&layout=compact&langs_count=7"/>
-</div>  
+<p align="center">
+  <strong>Desenvolvedor C# .NET e Angular 9+</strong><br>
+  Transformando problemas reais em produtos digitais funcionais, escalaveis e com foco em resultado.
+</p>
 
-### 🖥️ Tecnologias e Ferramentas
-  
-<div style="display: inline_block">
-  <code><img align="center" title="C#" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-  <code><img align="center" title=".Net" alt=".Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"></code>
-  <code><img align="center" title="Angular" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
-  <code><img align="center" title="Nodejs" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-  <code><img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-  <code><img align="center" title="Typescript" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
-  <code><img align="center" title="Html" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img align="center" title="Css" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img align="center" title="Azure" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></code>
-  <code><img align="center" title="Postgresql" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"></code>
-  <code><img align="center" title="Redis" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg"></code>
-  <code><img align="center" title="VS Code" alt="Vs Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"></code>
-  <code><img align="center" title="Visual Studio" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code>
-  <code><img align="center" title="Docker" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"></code>
-  <code><img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /></code>
+<p align="center">
+  <a href="https://github.com/giodevbr"><img src="https://img.shields.io/badge/GitHub-giodevbr-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/ograndegio/"><img src="https://img.shields.io/badge/LinkedIn-ograndegio-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:giovannedev@gmail.com"><img src="https://img.shields.io/badge/Contato-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+## Quem sou eu
+
+Sou o Giovanne, desenvolvedor de software com base forte em backend com .NET e experiencia em frontend com Angular. Gosto de construir solucoes completas, da API ao produto final, priorizando codigo limpo, performance e experiencia de uso.
+
+Tenho atuacao em projetos de automacao, APIs, sistemas web e produtos de gestao, sempre com mentalidade de dono e foco em entrega.
+
+---
+
+## Snapshot tecnico
+
+- Backend: C#, .NET, APIs REST, Minimal APIs
+- Frontend: Angular, TypeScript, JavaScript, HTML, CSS
+- Cloud e Infra: Azure, Docker
+- Dados: PostgreSQL, Redis, Microsoft SQL Server
+- Ferramentas: Git, VS Code, Visual Studio
+
+---
+
+## Projetos em destaque
+
+- [HorizonteAzul](https://github.com/giodevbr/HorizonteAzul)
+  Classificacao e ordenacao de tarefas com foco em organizacao e produtividade.
+
+- [SendMailApi](https://github.com/giodevbr/SendMailApi)
+  Minimal API em .NET para envio de emails com SendGrid e MailGun.
+
+- [GioradorDados](https://github.com/giodevbr/GioradorDados)
+  Projeto com foco em automacao e geracao de dados para cenarios reais de desenvolvimento.
+
+---
+
+## Estatisticas GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=giodevbr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giodevbr&layout=compact&langs_count=8&hide_border=true&title_color=0A66C2" />
 </div>
- 
-##
-  
-<div> 
-  <a href="https://instagram.com/giobatistadev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:giovannedev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giobatistadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div
-  
-![Snake animation](https://github.com/giodevbr/giodevbr/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
+## Como eu gero valor
+
+- Traduzo necessidade de negocio em solucao tecnica clara
+- Crio APIs robustas e prontas para evolucao
+- Conecto backend e frontend com foco em experiencia do usuario
+- Mantenho consistencia de codigo para facilitar manutencao e escala
+
+---
+
+## Vamos conectar
+
+<p>
+  <a href="https://www.linkedin.com/in/ograndegio/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:giovannedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/GioDevBR"><img src="https://img.shields.io/badge/X-@GioDevBR-111111?style=for-the-badge&logo=x&logoColor=white"></a>
+</p>
+
+![Snake animation](https://github.com/giodevbr/giodevbr/blob/output/github-contribution-grid-snake.svg)
